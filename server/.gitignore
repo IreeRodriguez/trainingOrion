@@ -1,0 +1,6 @@
+.orion
+node_modules
+yarn-error.log
+build.sh
+start.sh
+.DS_Store
